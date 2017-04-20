@@ -2,7 +2,7 @@
 layout: page
 title: Sobre
 permalink: /about/
-
+---
 <div id="main" role="main" class="container">
   <article class="page">
 
