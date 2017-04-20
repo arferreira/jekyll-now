@@ -4,79 +4,17 @@ title: Sobre
 permalink: /about/
 ---
 <div id="main" role="main" class="container">
-  <article class="page">
-
-    <div class="entry">
-
-      <div class="right">
-        <img src="/images/about/profile_picture.jpg" alt="Ruby" class="about_img_profile">
-
-        <p class="picture_font">Eu e minha esposa em nossa lua de mel!</p>
-      </div>
-
-      <div class="left">
-        <p>Olá! Me chamo Lucas e trabalho como desenvolvedor Ruby desde 2011.</p>
-
-        <p>Meu primeiro contato com programação foi aos 15 anos de idade em um curso do Senai. De lá para cá não parei mais.</p>
-
-        <p>Me formei em Sistemas de Informação pela Universidade de São Paulo, onde ao longo do curso pude me aprofundar e conhecer diversas outras tecnologias e linguagens de programação.</p>
-      </div>
-
-      <p>Mas foi quase que no fim da jornada acadêmica que acabei encontrando o que viria por mudar o rumo das coisas nos próximos anos: </p>
-
-      <img src="/images/about/ruby.png" alt="Ruby" class="about_img_ruby">
-
-      <p class="picture_font">Sim, Ruby!</p>
-
-      <p>Trabalhei com diversas tecnologias nos últimos anos, sendo as principais: Ruby on Rails, Javascrit, Rspec & Capybara, Banco de Dados Relacionais e Não Relacionais, etc.</p>
-
-      <h2 id="more-information">Um Pouco Mais</h2>
-
-      <p>Nasci em Santos, mas trabalho e passo a maior parte do meu tempo em São Paulo capital.</p>
-
-      <p>O que me move é o aprendizado. Gosto de aprender sobre tudo um pouco.</p>
-
-      <p>Acredito fortemente no poder da colaboração. Para tudo é necessário um objetivo, um foco. Com a tecnologia não é diferente. Se você não é capaz de utilizar seu conhecimento para ajudar
-      o próximo, então talvez você esteja fazendo algo errado.</p>
-
-      <p>Mantenha as coisas simples e faça o seu melhor. Só não esqueça de aproveitar a jornada.</p>
-
-      <br>
-
-      <h3 id="jobs">Empresas e Projetos em que Trabalhei</h3>
-
-      <span class="img_span">
-        <a target="_blank" href="http://www.safekick.com/">
-          <img src="/images/about/safekick_logo.png" alt="SafeKick" class="about_img_safekick">
-        </a>
-      </span>
-
-      <span class="img_span">
-        <a target="_blank" href="https://www.pressed.net/">
-          <img src="/images/about/pressed_net.png" alt="Pressed" class="about_img_pressed">
-        </a>
-      </span>
-
-      <span class="img_span">
-        <a target="_blank" href="http://lab360.com.br/">
-          <img src="/images/about/lab360.png" alt="Lab360" class="about_img_top">
-        </a>
-        <a target="_blank" href="http://www.concretesolutions.com.br/">
-          <img src="/images/about/concretesolutions.png" alt="ConcreteSolutions">
-        </a>
-      </span>
-
-      <span class="img_span">
-        <a target="_blank" href="http://www.abril.com.br/">
-          <img src="/images/about/abril.jpg" alt="Abril" class="about_img_bot">
-        </a>
-        <a target="_blank" href="http://www.locaweb.com.br/">
-          <img src="/images/about/locaweb.gif" alt="Locaweb" class="about_img_loca">
-        </a>
-      </span>
-      <br>
-      <h3 id="contact-me">Gostou?</h3>
-      <p> Me mande um e-mail ou entre em contato comigo por meio de um dos meus perfis. Os endereços estão logo abaixo. </p>
-        </div>
-      </article>
-    </div>
+<p>Olá, me chamo Antonio Ricardo e estou trabalhando com Ruby desde 2010. </p>
+<p>Aprendi as primeiras linhas de código em meados de 2005, desde então passei a me dedicar a este mundo.<br />
+  Fiz um curso técnico em informática pelo SENAI e passei a ter um contato maior com PHP, e em 2007 iniciei em um projeto de um software para controle de militares do batalhão do exército onde servi. 
+</p>
+<p>Em 2009, sai do exército e iniciei o curso de ciência da computação, e conheci um novo mundo, C++, OOP entre outros. Senti uma necessidade muito grande de sair dos pequenos exercícios passados em sala de aula, precisava aplicar em algo, foi ai que comecei a estagiar.</p>
+<p>Um ano depois conheci o Ruby através de um informativo sobre um curso que teria em minha cidade, decidi faze-lo e desde então tenho me dedicado a estudar a linguagem e suas vertentes.</p>
+<p>Trabalhei desde empresas de software até agências web, inclusive tive minha própria agência em 2013.</p>
+<p>Hoje atuo na área de T.I, lotado no GAPCG, unidade da Força Aérea Brasileira, e deixo alguns legados de códigos meus Ruby por aqui. Em novembro estarei retornando ao mercado de trabalho e espero contribuir muito com os conhecimentos adiquiridos.</p>
+ <br />
+ <p>Deseja falar comigo?</p><br />
+ <p>Entre agora em contato através dos links abaixo!</p>
+ </div>
+ 
+   
