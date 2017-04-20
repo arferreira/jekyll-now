@@ -21,12 +21,21 @@ footer-links:
   facebook:
   flickr:
   github: arferreira
+<<<<<<< HEAD
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: antonioricardof
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+=======
+  instagram: antonioricardof
+  linkedin: antonioricardof
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: antonioricardof
+  stackoverflow: users/1820699/user1820699 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+>>>>>>> b3fba76b0af38a6f434e8d61a0c666f857fd09fd
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
